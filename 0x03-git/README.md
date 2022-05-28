@@ -1,2 +1,2 @@
 My second commit
-My updated commit
+How to be up to date in git
